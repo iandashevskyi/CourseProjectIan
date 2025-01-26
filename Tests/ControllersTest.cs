@@ -22,11 +22,6 @@ public class AuthControllerTests
     }
     
     [Fact]
-    public void GAYTEST()
-    {
-        Assert.Equal(1,1);
-    }
-    [Fact]
     public void SignUpValidRequestReturnsOkResult()
     {
         var request = new SignUpRequest { Login = "testuser", Password = "testpass" };

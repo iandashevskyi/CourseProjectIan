@@ -15,3 +15,4 @@
 /home/ian/Desktop/FinalCourseProject/Client/obj/Debug/net9.0/Client.pdb
 /home/ian/Desktop/FinalCourseProject/Client/obj/Debug/net9.0/Client.genruntimeconfig.cache
 /home/ian/Desktop/FinalCourseProject/Client/obj/Debug/net9.0/ref/Client.dll
+/home/ian/Desktop/FinalCourseProject/Client/obj/Debug/net9.0/Client.sourcelink.json

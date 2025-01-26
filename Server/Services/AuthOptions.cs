@@ -6,11 +6,11 @@ namespace Prog.Services
     
     public class AuthOptions
     {
-        public const string ISSUER = "SieveOfSund";
-        public const string AUDIENCE = "SieveOfSundAudience";
+        public const string ISSUER = "HeapSort";
+        public const string AUDIENCE = "HeapSortAudience";
         public static SymmetricSecurityKey GetKey()
         {
-            return new SymmetricSecurityKey(Encoding.UTF8.GetBytes("SieveOfSundAudienceSieveOfSundAudienceSieveOfSundAudienceSieveOfSundAudiencePassword"));
+            return new SymmetricSecurityKey(Encoding.UTF8.GetBytes("HeapSortHeapSortHeapSortHeapSortHeapSortHeapSortHeapSortHeapSort"));
         }
     }
 }

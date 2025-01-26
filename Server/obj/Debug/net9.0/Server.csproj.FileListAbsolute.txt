@@ -65,3 +65,4 @@
 /home/ian/Desktop/FinalCourseProject/Server/obj/Debug/net9.0/Server.pdb
 /home/ian/Desktop/FinalCourseProject/Server/obj/Debug/net9.0/Server.genruntimeconfig.cache
 /home/ian/Desktop/FinalCourseProject/Server/obj/Debug/net9.0/ref/Server.dll
+/home/ian/Desktop/FinalCourseProject/Server/obj/Debug/net9.0/Server.sourcelink.json

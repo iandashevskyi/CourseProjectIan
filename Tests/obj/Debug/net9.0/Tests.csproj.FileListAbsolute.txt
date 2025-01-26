@@ -148,3 +148,4 @@
 /home/ian/Desktop/FinalCourseProject/Tests/obj/Debug/net9.0/Tests.pdb
 /home/ian/Desktop/FinalCourseProject/Tests/obj/Debug/net9.0/Tests.genruntimeconfig.cache
 /home/ian/Desktop/FinalCourseProject/Tests/obj/Debug/net9.0/ref/Tests.dll
+/home/ian/Desktop/FinalCourseProject/Tests/obj/Debug/net9.0/Tests.sourcelink.json
